@@ -1,4 +1,4 @@
-# The Playground Project (Project Management)
+# Project Management Project - Playground Project Plan for CSUEB Hayward Parks and Recreation Area
 
 In the project management project, I utilized MS Project and Gantt charts to 
 effectively manage and track project tasks and timelines. Using MS Project, 
